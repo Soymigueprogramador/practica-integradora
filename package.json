@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "practica-integradora",
+  "version": "1.0.0",
+  "description": "Esta es la practica integradora de programacion backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "author": "Miguel Salazar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
